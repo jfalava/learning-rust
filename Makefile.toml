@@ -1,0 +1,7 @@
+[tasks.guessing-game-run]
+command = "cargo"
+args = ["run", "--manifest-path", "guessing_game/Cargo.toml"]
+
+[tasks.guessing-game-build]
+command = "cargo"
+args = ["build", "--manifest-path", "guessing_game/Cargo.toml"]

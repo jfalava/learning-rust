@@ -1,0 +1,10 @@
+{
+  "crates": [
+    {
+      "root_module": "/guessing_game/src/main.rs",
+      "edition": "2021",
+      "deps": [],
+      "cfg": []
+    }
+  ]
+}
